@@ -1,0 +1,40 @@
+
+*{
+	font-family: 'Bebas Neue', cursive;
+	text-align: center;
+}
+body{
+	background-image:url('../back.png');
+	text-align: center;
+	background-size: cover;
+}
+
+h2{
+	color: white;
+	font-size: 50px;
+	margin-top: 10%;
+}
+span{
+	color: white!important;
+	font-size: 50px;
+	text-transform: lowercase;
+}
+
+.social{
+	width: 300px;
+	height: 100px;
+	margin-top:100px!important;
+	margin: 0 auto;
+}
+
+.fa{
+	border:none!important;
+	color:white;
+	margin-left: 20px!important;
+	font-size: 40px;
+}
+.fa:hover{
+	color:white;
+	text-decoration: none;
+	opacity: 0.7!important;
+}
